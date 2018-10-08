@@ -36,5 +36,6 @@ series_note: Masterpieces in Colour
 subjects:
 - !lcsh 'Holbein, Hans, 1497-1543'
 - !lcc 'ND'
+- GITenberg
 title: Holbein
 url: http://www.gutenberg.org/ebooks/43410
